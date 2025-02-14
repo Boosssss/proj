@@ -1,5 +1,6 @@
 # EasyNotes Application
-
+*[Abhishek Aggarwal](mailto:abhishek1998.aggarwal@gmacom)*<br>
+*26/07/2020*<br>
 Build a Restful CRUD API for a simple Note-Taking application using Node.js, Express and MongoDB.
 
 ## Steps to Setup
